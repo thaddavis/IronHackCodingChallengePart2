@@ -2508,3 +2508,28 @@ If you're seeing this error, you're likely using an old version of `react-script
 ## Something Missing?
 
 If you have ideas for more “How To” recipes that should be on this page, [let us know](https://github.com/facebook/create-react-app/issues) or [contribute some!](https://github.com/facebook/create-react-app/edit/master/packages/react-scripts/template/README.md)
+
+# IronHack Challenge
+
+For the second part of the coding challenge, I will prodive you with an API made with Express.  The API is an extremely simple CRUD app for a to-do list.  
+It has routes and models for signing up, logging in, logging out, creating tasks, editing tasks, deleting tasks, and of course, seeing tasks.  
+
+The API can be found at the following github page 
+https://github.com/nickborbe/basic-to-do-api
+
+Your assignment for this (2nd) part of the challenge is this: create a React app that will interact with this API in such a way that the user can accomplish all the functions the API was made for (signing up, logging in, logging out, creating tasks, editing tasks, deleting tasks, and seeing tasks.)
+
+signing up, 
+logging in, 
+logging out, 
+creating tasks, 
+editing tasks, 
+deleting tasks, 
+and seeing tasks.
+
+The styling is not important for this app at all.  In fact, keep it as simple as possible.  
+
+Once you are finished, please send me your solution and we can discuss the next steps.  
+
+
+After you complete both of these challenges, the next step in the process would be to come in for an in-person mock-lesson, where you would be using the React app you just built to teach us a lesson on React, so keep this in mind when you are building the app.  

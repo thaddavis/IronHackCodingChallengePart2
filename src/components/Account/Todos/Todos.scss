@@ -1,0 +1,28 @@
+.todos {
+    ul {
+
+        padding-left: 0px;
+
+        li {
+            list-style: none;
+            padding-bottom: 10px;
+            font-size: 1.2em;
+            
+            input[type=checkbox] {
+                display: inline-flex;
+            }
+
+            .times {
+                svg {
+                    transform: translate(0px, 2px);
+                    color: red;
+                }
+            }
+
+            .description {
+                font-size: 0.8em;
+            }
+                
+        }
+    }
+}
